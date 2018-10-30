@@ -17,6 +17,6 @@
 'Then, set the trigger and response. For example, if you want someone to say bpizza and then you to respond automatically, put the trigger as
 'bpizza and put the response as whatever you want the bot to respond as
 
-'Support for this bot has sadly ended, but I may update it at times.
-'This bot is made in VB.NET which I hate, but I didn't know how to make an OCR engine in C#
-'THIS BOT IS 100% MADE BY FROZEN3547/FROZENPVPS
+'Support for this bot has sadly ended, but I may update it at times.'
+'This bot is made in VB.NET which I hate, but I didn't know how to make an OCR engine in C#'
+'THIS BOT IS 100% MADE BY FROZEN3547/FROZENPVPS'
