@@ -9,7 +9,7 @@
 'This bot uses an OCR engine to pick up text and sees if it matches with one of the set triggers'
 
 'DOWNLOAD THE BOT (WITHOUT SOURCE):
-'https://anonfile.com/1dN0h1k1bf/Adobe_Connect_Automated_Bot_zip'
+'https://github.com/OHSGithubers/Adobe-Connect-Automated-Bot/releases/tag/1.0.0'
 
 'How do I use this?'
 'Simply start the project. Then, go to your adobe connect session and increase the text size to "24" (what I found worked best)
